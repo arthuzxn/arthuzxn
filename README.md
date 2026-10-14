@@ -1,19 +1,11 @@
 
-<h1 align="center">Olá! 👋 Sou Arthur Oliveira</h1>
-
-<h3 align="center">
-  Estudante de Engenharia de Software | Java • Spring Boot • Back-end
-</h3>
-
----
-
-### 👨‍💻 Sobre mim
+# 👋 Olá, sou Arthur Oliveira!
 
 Sou estudante de Engenharia de Software pelo Centro Universitário Fundação Santo André e formado em Técnico em Informática pela Fundação Salvador Arena.
 
-Tenho foco no desenvolvimento back-end e desenvolvo projetos com Java, Spring Boot, SQL e bancos de dados relacionais, aplicando conceitos de programação orientada a objetos, APIs REST, integração com serviços externos e persistência de dados utilizando JPA.
+Tenho foco no desenvolvimento back-end, desenvolvendo projetos com Java e Spring Boot, utilizando SQL e bancos de dados relacionais. Nos meus projetos, aplico conceitos de programação orientada a objetos, desenvolvimento de APIs REST, integração com serviços externos e persistência de dados com JPA.
 
-Além disso, possuo conhecimentos em Python, C++, HTML, CSS e Power BI, e estou sempre buscando aprender e evoluir por meio de cursos e projetos práticos.
+Além disso, possuo conhecimentos em Python, C++, HTML e CSS, e estou sempre buscando aprender e evoluir por meio de cursos e projetos práticos.
 
 ---
 
